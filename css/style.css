@@ -274,13 +274,13 @@ section span {
   flex: 1;
   padding: 2rem;
   border-radius: 10px;
-  color: var(--text-color);
+  color: var(--text);
   background-color: var(--gray-color);
   transition: 0.3s ease;
 }
 
 .box h3 {
-  color: var(--secodary-color);
+  color: var(--primari);
   font-weight: 600;
   font-size: 1.3rem;
   margin-bottom: 0.8rem;
@@ -294,7 +294,7 @@ section span {
 
 .box:hover {
   transform: scale(1.03) translateY(-5px);
-  box-shadow: 1.5px 4px 8px #191919;
+  box-shadow: 1.5px 4px 8px #420777;
 }
 
 .kontak {
